@@ -21,7 +21,7 @@ function getUsers(name){
       cardBody.appendChild(title);
       card.appendChild(cardBody);
       fragment.appendChild(card);
-      });
+    });
       container.appendChild(fragment);   
 };
 btn.addEventListener('click', e =>{
