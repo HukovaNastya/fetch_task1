@@ -1,0 +1,28 @@
+html{
+    box-sizing: border-box;
+}
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+.btn{
+    border: 2px solid #000;
+    font-size: 30px;
+    text-align: center;
+    margin: 10px 34%;
+    width: 350px;
+    align-items: center;
+    background-color: #4682B4; 
+    border-color: #FFFFFF;
+    text-decoration: none;
+    color: #fff;
+}
+.container{
+    /* border: 2px solid #000; */
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    margin: 10px 30%;
+    width: 500px;
+    background-color: #4682B4; 
+    color: #fff;
+}
